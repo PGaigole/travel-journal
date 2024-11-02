@@ -1,0 +1,45 @@
+@use "../abstracts/" as *;
+
+.card {
+  height: 208px; // as padding top bottom of 20px is applied
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 20px 0;
+  border-bottom: 1px solid $border-color;
+  > img {
+    width: 125px;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .card-info {
+    .location {
+      font-size: $font-size-p;
+      margin-bottom: 5px;
+      .location-name {
+        letter-spacing: 2px;
+        padding-left: 5px;
+      }
+      .google-maps-link {
+        color: $text-color-light;
+        text-decoration: underline;
+        padding-left: 10px;
+      }
+    }
+    .name {
+      margin-bottom: 20px;
+      line-height: 30.26px;
+    }
+    .date {
+      margin-bottom: 10px;
+      line-height: 12.39px;
+    }
+    .description {
+      line-height: 15.36px;
+    }
+  }
+  &:last-child {
+    border-bottom: none;
+  }
+}

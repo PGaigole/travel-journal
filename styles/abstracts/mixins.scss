@@ -1,0 +1,15 @@
+$font-base: 16px;
+
+@function stripUnit($value) {
+  @if unitless($value) {
+    @return $value;
+  } @else if $value == 0 {
+    @return 0;
+  } @else {
+    @return $value / ($value * 0 + 1);
+  }
+}
+
+@function px-rem($pxValue) {
+  @return calc(stripUnit($pxValue) / stripUnit($font-base)) * 1rem;
+}

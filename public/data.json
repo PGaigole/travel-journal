@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Mount Fuji",
+    "location": "Japan",
+    "googleMapsUrl": "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    "startDate": "12 Jan, 2021",
+    "endDate": "24 Jan, 2021",
+    "description": "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/188d/a2c4/e143f205acb5ae4dc702b16f370e7994?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oHPx0Y11xfaSNGzfD778srivrC7TYSZMRqkNDWFQO5ZBv9Wru6w9PB3Mu2Fe~2vzPcw8E1zwFqQA8A99yz~mEOumMvh3FmZPdnvaKqMVxltmirPNm5NTEuz6aFvoESfoY0gnPkzGOGaWGMeBf1AFtlfla103QjB6E5woMmpDt0BKp9W6jiOQAYmlUU9JFjlsZNbqw-eMgAfvBuOtfJS918ycC8K36MzNbse0tT3sjLuiBOkbGr~KCUkbbgSkm2fzEsZ830MOLLJYPV22GwdUWurWJ9Huni2aW43PgIujPkz2F7pPjqFTpWXd~fMEQhZvGkIZpolG24JBQFcdpvdZRw__",
+    "imageAlt": "Image of Mount Fuji"
+  },
+  {
+    "id": 1,
+    "title": "Sydney Opera House",
+    "location": "Australia",
+    "googleMapsUrl": "https://maps.app.goo.gl/WaqNyGLyvoQF6mXw5",
+    "startDate": "27 May, 2023 ",
+    "endDate": "8 June, 2023 ",
+    "description": "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/3e4c/42db/87935fa3908dfc212c11483e45b24be0?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WPjdJlw80BzeX4ahJlOjLa~S1Fbb-JnRJTw-hEZ2tfqxOhFw~pet2EbIKSYODYjp363UOT5L5Q9-KSBdzFmNxGWKgIZh3Z-8uWofT3pjW-3N2aEM1JpJqiUBwoq-jALf1GXFxY56SUrjb3mw01x2UviHoJsFWLtGCcaCEEyQIxc6XOj83h62VaUYxbQf-FPEdLwdIn1Nc4tcUEnAmbIBHDmnJliR73j~vfTD8vkDH6lBGIHfvm25gb2dwZhhNzdMiiUDZ~USvkEoJFWEk~q7zak~pJwIMJsVAU~zetsB-6XtRJ7O33jsFahxoQzOCNBIjwgWrdjRjgfC8a0Khqswtg__",
+    "imageAlt": "Image of Sydney Opera House"
+  },
+  {
+    "id": 1,
+    "title": "Geirangerfjord",
+    "location": "Norway",
+    "googleMapsUrl": "https://maps.app.goo.gl/sB38HatjqUK1nG7o8",
+    "startDate": "01 Oct, 2024",
+    "endDate": "18 Nov, 2024",
+    "description": "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/3dc0/b407/33e2a0d246e011c923d00b7ea3de39f0?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Jelp0s2t-RdA4-prIyw~~j7tEHND0bYI2CWmntHqro5YortBRQ23S3EtnljRjITloIpXYGWtz5u7U4PaXnM7V3jvrVFHlB7DYDY3VAf6AgljmkoviRJqEEsG~tpc3yfsXAcqRt35390~Qui8IYnX95VMLoBtlDmlEk9WwBU2TUON88p-~6Bj2whWCIR6IT5clE1YwNy0DVzXP-Fz0DNIO6jVA18jWq7WBJ3lx0-KTSm1L7~uXiUjO-TCKIBsOIAUjBg0m4J~EjDTkVenqWwJ7O9NusJbyO0scVSL8sPr3-ogm1a45hhz-uIEB2Kgw9eI~zq7MtiOUHJZ0yIqoXBKcA__",
+    "imageAlt": "Image of Geirangerfjord"
+  }
+]
