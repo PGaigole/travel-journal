@@ -17,7 +17,7 @@ export default function Card(props) {
       <img src={imageUrl} alt={imageAlt} />
       <div className="card-info">
         <div className="location">
-          <img src="src/assets/location-icon.svg" />
+          <img src="/assets/location-icon.svg" />
           <span className="location-name">{location.toUpperCase()}</span>
           <a className="google-maps-link" href={googleMapsUrl}>
             View on Google Maps
